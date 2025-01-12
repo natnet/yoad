@@ -40,7 +40,7 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 ### How To Deploy - 
 
 - There are many ways to Deploy this repo.
-- here we are gonna use netlify
+- here we are gonna use netlifט
 - Login into netlify with github
 - after login select the forked repo or the repo you want to deploy
 - after selecting netlify will automatially deploy your website.
